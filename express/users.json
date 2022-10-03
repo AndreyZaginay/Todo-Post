@@ -1,0 +1,23 @@
+[
+   {
+      "id": 1,
+      "firstname": "Andreyaasdaa",
+      "lastname": "Zaginayasdasdasdasd",
+      "age": 21,
+      "birthday": "12-14-2000"
+   },
+   {
+      "id": 2,
+      "firstname": "Vladyslavarasd",
+      "lastname": "Vyslobitskyiaasd",
+      "age": 21,
+      "birthday": "06-14-2001"
+   },
+   {
+      "id": 3,
+      "firstname": "Vladyslave",
+      "lastname": "Hybaloaa",
+      "age": 19,
+      "birthday": "10.07.2002"
+   }
+]
